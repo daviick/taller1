@@ -3,7 +3,7 @@ package lab1;
 import javax.swing.JFrame;
 
 /**
- * This class creates an AWT window which will contain the game.
+ * This class creates an AWT window which will contain the game. Michael Merchan
  */
 public class Main {
 	public static void main(final String[] args) {
